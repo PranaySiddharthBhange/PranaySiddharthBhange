@@ -1,5 +1,20 @@
-```console
+<img src="https://readme-typing-svg.demolab.com/?font=Ubuntu+Mono&size=22&duration=2800&pause=900&color=8AE234&vCenter=true&width=760&height=42&lines=pranay%40ubuntu%3A~%24+ssh+guest%40github.com;Building+animation+engines+in+C%2B%2B;Interactive+3D+simulations+with+Three.js;Self-healing+servers+%26+Docker;Flutter+apps+%C2%B7+Python+%C2%B7+Linux" alt="typing intro" />
+
+```text
+Welcome to Ubuntu 24.04 LTS (GNU/Linux 6.8.0-pranay x86_64)
+
+ * Profile:        https://github.com/PranaySiddharthBhange
+ * Stack:          C++ · JavaScript · Three.js · Python · Dart · Docker
+ * Focus:          3D graphics · simulation · animation engines
+
+  System load:  high (compiling C++)     Processes:  too many side projects
+  Coffee level: 92%                      Uptime:     always shipping
+
+0 updates can be applied immediately.
 Last login: from github.com on pts/0
+```
+
+```console
 pranay@ubuntu:~$ whoami
 Pranay Siddharth Bhange — Software Engineer · C++ · 3D graphics · simulation
 
@@ -10,7 +25,7 @@ pranay@ubuntu:~$ cat ~/about.txt
 > Open to collaborating on C++, graphics, simulation and open-source projects.
 ```
 
-![neofetch](https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=PranaySiddharthBhange&theme=ubuntu&color=1)
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=PranaySiddharthBhange&theme=ubuntu&color=1" alt="neofetch" width="100%" />
 
 <pre>
 <b>pranay@ubuntu:~$</b> ls -l ~/projects --sort=awesome
@@ -26,11 +41,16 @@ drwxr-xr-x  Dart      <a href="https://github.com/PranaySiddharthBhange/Smart-Ir
 36   <a href="https://github.com/PranaySiddharthBhange?tab=repositories">→ cd ~/projects  (see all repositories)</a>
 </pre>
 
-![skills](https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=cpp,js,threedotjs,py,dart,flutter,nodejs,html,docker,linux,git,bash&theme=ubuntu&perline=6)
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=cpp,js,threedotjs,py,dart,flutter,nodejs,html,docker,linux,git,bash&theme=ubuntu&perline=6" alt="skills" width="100%" />
 
-![dashboard](https://github-readme-insight-terminal-asci.vercel.app/svg/dashboard?user=PranaySiddharthBhange&theme=ubuntu)
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/dashboard?user=PranaySiddharthBhange&theme=ubuntu" alt="dashboard" width="100%" />
 
-![git log](https://github-readme-insight-terminal-asci.vercel.app/svg/git-log?user=PranaySiddharthBhange&theme=ubuntu&lines=6)
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/git-log?user=PranaySiddharthBhange&theme=ubuntu&lines=6" alt="git log" width="100%" />
+
+```console
+pranay@ubuntu:~$ fortune
+There's no place like 127.0.0.1
+```
 
 <pre>
 <b>pranay@ubuntu:~$</b> cat ~/.contact
