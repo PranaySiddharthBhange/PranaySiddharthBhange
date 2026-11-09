@@ -25,7 +25,7 @@ pranay@ubuntu:~$ cat ~/about.txt
 > Open to collaborating on C++, graphics, simulation and open-source projects.
 ```
 
-<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=PranaySiddharthBhange&theme=ubuntu&color=1" alt="neofetch" width="100%" />
+<img src="assets/neofetch.svg" alt="neofetch" width="100%" />
 
 <pre>
 <b>pranay@ubuntu:~$</b> ls -l ~/projects --sort=awesome
